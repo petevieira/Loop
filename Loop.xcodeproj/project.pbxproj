@@ -620,6 +620,8 @@
 		19DECF0A2737430200B2F292 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
 		19DECF0B2737430800B2F292 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		19DECF0C2737430D00B2F292 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
+		19DECF11273746EF00B2F292 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Interface.strings; sourceTree = "<group>"; };
+		19DECF12273746F200B2F292 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/Interface.strings; sourceTree = "<group>"; };
 		2CBB4B0C2582B6820099DDEF /* xDripClient.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = xDripClient.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CBB4B0E2582B6A00099DDEF /* xDripClientUI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = xDripClientUI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3804343C23747354004BAB52 /* Microbolus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Microbolus.swift; sourceTree = "<group>"; };
@@ -3125,6 +3127,8 @@
 				7D199D95212A067600241026 /* pl */,
 				3885096924F284E10054E2A9 /* sv */,
 				19094D64273474C9007EC796 /* he */,
+				19DECF11273746EF00B2F292 /* ar */,
+				19DECF12273746F200B2F292 /* fi */,
 			);
 			name = Interface.storyboard;
 			sourceTree = "<group>";
