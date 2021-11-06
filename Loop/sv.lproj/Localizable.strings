@@ -461,19 +461,19 @@
 
 "Temporary overrides" = "Tillfälliga undantag";
 
-"Disable MB by enabling temporary override" = "Stäng av automatisk bolus vid tillfälliga undantag";
+"Disable MB by enabling temporary override" = "Stäng av automatisk bolus när ett tillfälligt undantag är aktivt";
 
-"If the override's target range starts at the given value or more" = "Om målvärden börjar på angivet värde eller mer";
+"If the override's target range starts at the given value or more" = "Om målvärdet börjar på angivet värde eller mer";
 
 "Other Options" = "Andra val";
 
-"Open bolus screen after carbs on watch" = "Öppna bolusfönster efter kolhydrater på din klocka";
+"Open bolus screen after carbs on watch" = "Öppna bolusfönster efter kolhydrater via klocka";
 
 "Minimum Bolus Size" = "Minsta bolusmängd";
 
 "Last Event" = "Senaste händelse";
 
-"This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "Detta är den minsta mängd automatisk bolus som kan ges.";
+"This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "Detta är den minsta mikrobolusstorleken i enheter som kommer att levereras. Endast om mikrobolusen beräknas är lika med eller större än detta antal enheter kommer en bolus att levereras.";
 
 "Disabled" = "Av";
 
@@ -489,7 +489,7 @@
 
 "Manual Temp Basal" = "Manuell temporär basal";
 
-"Basal rate (U/h)" = "Basaldos (IЕ/h)";
+"Basal rate (U/h)" = "Basaldos (Е/h)";
 
 "Duration" = "Duration";
 
@@ -509,6 +509,6 @@
 
 "Show required carbs on the app badge" = "Visa antal kolhydrater som krävs för att hamna i målområde";
 
-"Allow MBs when glucose is below target range" = "Tillåt automatiska bolusar även när blodglukos är under målvärde";
+"Allow MBs when glucose is below target range" = "Tillåt automatiska bolusar även när blodglukos är under målvärdet";
 
 "Retrospective Correction interval" = "Retrospektivt korrigeringsintervall";
