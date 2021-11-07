@@ -1,5 +1,5 @@
 /* The string format appended to active insulin that describes pending insulin. (1: pending insulin) */
-" (pending: %@)" = " (Gjenstår: %@)";
+" (pending: %@)" = " (gjenstår: %@)";
 
 /* Format string for carb ratio average. (1: value)(2: carb unit) */
 "%1$@ %2$@/U" = "%1$@ %2$@/E";
