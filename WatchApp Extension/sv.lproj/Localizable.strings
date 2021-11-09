@@ -22,7 +22,7 @@
 "Net Basal Rate" = "Nettobasaldos";
 
 /* The text for the Watch button for enabling a temporary override */
-"Override" = "Override";
+"Override" = "Undantag";
 
 /* The label and value showing the recommended bolus */
 "Rec: %@ U" = "Rek: %@ E";
@@ -42,4 +42,3 @@
 
 /* The text for the Watch button for enabling workout mode */
 "Workout" = "Träning";
-
