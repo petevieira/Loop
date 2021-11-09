@@ -10,5 +10,8 @@
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "Face ID avänds för att godkänna bolus.";
 
+/* Privacy - Health Share Usage Description */
+"NSHealthShareUsageDescription" = "Meal data from the Health database is used to determine glucose effects. Glucose data from the Health database is used for graphing and momentum calculation. Sleep data from the Health database is used to improve the Apple Watch complication.";
+
 /* Privacy - Health Update Usage Description */
 "NSHealthUpdateUsageDescription" = "Kolhydratvärden inmatade i appen i klockan lagras i Apple Health-databasen. Glukosvärden mottagna från CGM  lagras krypterat i HealthKit.";

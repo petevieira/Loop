@@ -307,7 +307,7 @@
 "Manual Temp Basal" = "Manual Temp Basal";
 
 /* (No Comment) */
-"Max basal limit" = "Max basal limit";
+"Max basal limit" = "Limite basale massimo";
 
 /* The error message for missing data. (1: missing data details) */
 "Missing data: %1$@" = "Dati mancanti: %1$@";
