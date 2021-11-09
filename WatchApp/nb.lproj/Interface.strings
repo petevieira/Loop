@@ -47,7 +47,7 @@
 "Ury-of-vQg.text" = "10:09 AM";
 
 /* Class = "WKInterfaceLabel"; text = "Turn Digital Crown to bolus"; ObjectID = "Xcr-jO-0IQ"; */
-"Xcr-jO-0IQ.text" = "Vri \"Digital Crown\" for å gi bolus";
+"Xcr-jO-0IQ.text" = "Vri kronen for å gi bolus";
 
 /* Class = "WKInterfaceLabel"; text = "<body>"; ObjectID = "XkS-y5-khE"; */
 "XkS-y5-khE.text" = "<body>";
