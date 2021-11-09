@@ -35,7 +35,7 @@
 "Send Failed" = "Invio Fallito";
 
 /* The short unit display string for international units of insulin */
-"U" = "E";
+"U" = "U";
 
 /* The short unit display string for international units of insulin delivery per hour */
 "U/hr" = "U/ora";
