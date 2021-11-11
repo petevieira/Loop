@@ -1,4 +1,3 @@
-
 /* Class = "UILabel"; text = "g"; ObjectID = "0RV-d5-muE"; */
 "0RV-d5-muE.text" = "g";
 
@@ -38,14 +37,14 @@
 /* Class = "UILabel"; text = "eventually 92 mg/dL"; ObjectID = "E41-FN-nkk"; */
 "E41-FN-nkk.text" = "eventualmente 92 mg/dL";
 
-//* Class = "UILabel"; text = "Observed"; ObjectID = "EAn-Ja-S1d"; */
+/* Class = "UILabel"; text = "Observed"; ObjectID = "EAn-Ja-S1d"; */
 "EAn-Ja-S1d.text" = "Observada";
 
 /* Class = "UIButton"; normalTitle = "🍭"; ObjectID = "Fal-Vf-lfh"; */
 "Fal-Vf-lfh.normalTitle" = "🍭";
 
-/* Class = "UILabel"; text = "eventually 92 mg/dL"; ObjectID = "E41-FN-nkk"; */
-"E41-FN-nkk.text" = "eventualmente 92 mg/dL";
+/* Class = "UILabel"; text = "Eventually 92 mg/dL"; ObjectID = "G51-pt-pmi"; */
+"G51-pt-pmi.text" = "Eventually 92 mg/dL";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "IRb-Yj-AQH"; */
 "IRb-Yj-AQH.text" = "Label";

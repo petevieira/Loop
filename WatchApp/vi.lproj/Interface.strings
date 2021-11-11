@@ -1,9 +1,8 @@
-
 /* Class = "WKInterfaceButton"; title = "🌮"; ObjectID = "0fo-Z3-hTi"; */
 "0fo-Z3-hTi.title" = "🌮";
 
-/* Class = "WKInterfaceLabel"; text = "--"; ObjectID = "CWt-7U-cnK"; */
-"CWt-7U-cnK.text" = "--";
+/* Class = "WKInterfaceLabel"; text = "15"; ObjectID = "CWt-7U-cnK"; */
+"CWt-7U-cnK.text" = "15";
 
 /* Class = "WKInterfaceLabel"; text = "—"; ObjectID = "CsQ-fc-KLC"; */
 "CsQ-fc-KLC.text" = "—";
@@ -36,7 +35,7 @@
 "Mhe-aR-kQQ.text" = "—";
 
 /* Class = "WKInterfaceButton"; title = "Bolus"; ObjectID = "Qsq-p5-1J0"; */
-"Qsq-p5-1J0.title" = "Bolus";
+"Qsq-p5-1J0.title" = "Liều Bolus";
 
 /* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "T4U-wP-dSW"; */
 "T4U-wP-dSW.text" = "Label";
@@ -52,6 +51,9 @@
 
 /* Class = "WKInterfaceLabel"; text = "<body>"; ObjectID = "XkS-y5-khE"; */
 "XkS-y5-khE.text" = "<body>";
+
+/* Class = "WKInterfaceLabel"; text = "Carbs"; ObjectID = "hln-CI-MRP"; */
+"hln-CI-MRP.text" = "Carbs";
 
 /* Class = "WKInterfaceButton"; title = "Add Carbs"; ObjectID = "b6f-3I-jki"; */
 "b6f-3I-jki.title" = "Add Carbs";
@@ -90,13 +92,13 @@
 "hln-CI-MRP.text" = "Carbs";
 
 /* Class = "WKInterfaceLabel"; text = "Bolus Failed"; ObjectID = "jj3-Gq-HBy"; */
-"jj3-Gq-HBy.text" = "Bolus Failed";
+"jj3-Gq-HBy.text" = "Bolus lỗi";
 
 /* Class = "WKInterfaceLabel"; text = "0.000"; ObjectID = "mpK-zY-UvA"; */
 "mpK-zY-UvA.text" = "0.000";
 
 /* Class = "WKInterfaceLabel"; text = "Override"; ObjectID = "nC0-X3-oFJ"; */
-"nC0-X3-oFJ.text" = "Override";
+"nC0-X3-oFJ.text" = "Chồng liều";
 
 /* Class = "WKInterfaceController"; title = "Loop"; ObjectID = "rNf-Mh-tID"; */
 "rNf-Mh-tID.title" = "Loop";
@@ -105,7 +107,7 @@
 "rV7-d9-n6u.text" = "UNITS";
 
 /* Class = "WKInterfaceLabel"; text = "Bolus"; ObjectID = "smL-Rc-IZh"; */
-"smL-Rc-IZh.text" = "Bolus";
+"smL-Rc-IZh.text" = "Liều Bolus";
 
 /* Class = "WKInterfaceController"; title = "Loop"; ObjectID = "v5b-sO-bb8"; */
 "v5b-sO-bb8.title" = "Loop";
