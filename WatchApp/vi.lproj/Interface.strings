@@ -8,13 +8,13 @@
 "CsQ-fc-KLC.text" = "—";
 
 /* Class = "WKInterfaceButton"; accessibilityLabel = "Add"; ObjectID = "DZc-Gn-RLu"; */
-"DZc-Gn-RLu.accessibilityLabel" = "Add";
+"DZc-Gn-RLu.accessibilityLabel" = "Thêm vào";
 
 /* Class = "WKInterfaceButton"; title = "+"; ObjectID = "DZc-Gn-RLu"; */
 "DZc-Gn-RLu.title" = "+";
 
 /* Class = "WKInterfaceButton"; accessibilityLabel = "Subtract"; ObjectID = "Dh9-HV-fXy"; */
-"Dh9-HV-fXy.accessibilityLabel" = "Subtract";
+"Dh9-HV-fXy.accessibilityLabel" = "Trừ đi";
 
 /* Class = "WKInterfaceButton"; title = "−"; ObjectID = "Dh9-HV-fXy"; */
 "Dh9-HV-fXy.title" = "−";
@@ -26,7 +26,7 @@
 "IRi-4t-ESO.text" = "—";
 
 /* Class = "WKInterfaceLabel"; text = "Running"; ObjectID = "JXa-s1-PJx"; */
-"JXa-s1-PJx.text" = "Running";
+"JXa-s1-PJx.text" = "Đang chạy";
 
 /* Class = "WKInterfaceLabel"; text = "TITLE"; ObjectID = "MZU-QV-PtZ"; */
 "MZU-QV-PtZ.text" = "TITLE";
@@ -53,37 +53,37 @@
 "XkS-y5-khE.text" = "<body>";
 
 /* Class = "WKInterfaceLabel"; text = "Carbs"; ObjectID = "hln-CI-MRP"; */
-"hln-CI-MRP.text" = "Carbs";
+"hln-CI-MRP.text" = "Lượng Carbs";
 
 /* Class = "WKInterfaceButton"; title = "Add Carbs"; ObjectID = "b6f-3I-jki"; */
-"b6f-3I-jki.title" = "Add Carbs";
+"b6f-3I-jki.title" = "Khai báo lượng Carbs";
 
 /* Class = "WKInterfaceButton"; title = "🍕"; ObjectID = "dPF-QZ-sh6"; */
 "dPF-QZ-sh6.title" = "🍕";
 
 /* Class = "WKInterfaceMenuItem"; title = "2 hours"; ObjectID = "dPh-7b-Tfv"; */
-"dPh-7b-Tfv.title" = "2 hours";
+"dPh-7b-Tfv.title" = "2 giờ";
 
 /* Class = "WKInterfaceLabel"; text = "TOTAL CARBS"; ObjectID = "dea-qG-va8"; */
-"dea-qG-va8.text" = "TOTAL CARBS";
+"dea-qG-va8.text" = "TỔNG CỘNG LƯỢNG CARBS";
 
 /* Class = "WKInterfaceButton"; accessibilityLabel = "Add"; ObjectID = "eu3-pj-GH3"; */
-"eu3-pj-GH3.accessibilityLabel" = "Add";
+"eu3-pj-GH3.accessibilityLabel" = "Thêm vào";
 
 /* Class = "WKInterfaceButton"; title = "+"; ObjectID = "eu3-pj-GH3"; */
 "eu3-pj-GH3.title" = "+";
 
 /* Class = "WKInterfaceLabel"; text = "Pre-Meal"; ObjectID = "f5G-bS-9pd"; */
-"f5G-bS-9pd.text" = "Pre-Meal";
+"f5G-bS-9pd.text" = "Trước bữa ăn";
 
 /* Class = "WKInterfaceMenuItem"; title = "3 hours"; ObjectID = "fR1-7h-SNe"; */
-"fR1-7h-SNe.title" = "3 hours";
+"fR1-7h-SNe.title" = "3 giờ";
 
 /* Class = "WKInterfaceButton"; title = "🍭"; ObjectID = "gAn-qe-OvX"; */
 "gAn-qe-OvX.title" = "🍭";
 
 /* Class = "WKInterfaceButton"; accessibilityLabel = "Subtract"; ObjectID = "hjF-xr-cwO"; */
-"hjF-xr-cwO.accessibilityLabel" = "Subtract";
+"hjF-xr-cwO.accessibilityLabel" = "Trừ đi";
 
 /* Class = "WKInterfaceButton"; title = "−"; ObjectID = "hjF-xr-cwO"; */
 "hjF-xr-cwO.title" = "−";
@@ -98,13 +98,13 @@
 "mpK-zY-UvA.text" = "0.000";
 
 /* Class = "WKInterfaceLabel"; text = "Override"; ObjectID = "nC0-X3-oFJ"; */
-"nC0-X3-oFJ.text" = "Chồng liều";
+"nC0-X3-oFJ.text" = "Chồng lên";
 
 /* Class = "WKInterfaceController"; title = "Loop"; ObjectID = "rNf-Mh-tID"; */
 "rNf-Mh-tID.title" = "Loop";
 
 /* Class = "WKInterfaceLabel"; text = "UNITS"; ObjectID = "rV7-d9-n6u"; */
-"rV7-d9-n6u.text" = "UNITS";
+"rV7-d9-n6u.text" = "ĐƠN VỊ";
 
 /* Class = "WKInterfaceLabel"; text = "Bolus"; ObjectID = "smL-Rc-IZh"; */
 "smL-Rc-IZh.text" = "Liều Bolus";
@@ -113,10 +113,10 @@
 "v5b-sO-bb8.title" = "Loop";
 
 /* Class = "WKInterfaceMenuItem"; title = "1 hour"; ObjectID = "vL1-NA-WZ1"; */
-"vL1-NA-WZ1.title" = "1 hour";
+"vL1-NA-WZ1.title" = "1 giờ";
 
 /* Class = "WKInterfaceLabel"; text = "ACTIVE CARBS"; ObjectID = "ycL-5X-a05"; */
-"ycL-5X-a05.text" = "ACTIVE CARBS";
+"ycL-5X-a05.text" = "LƯỢNG CARBS CÒN HOẠT ĐỘNG";
 
 /* Class = "WKInterfaceLabel"; text = "---"; ObjectID = "yl8-ZP-c3l"; */
 "yl8-ZP-c3l.text" = "---";
