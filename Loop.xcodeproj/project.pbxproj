@@ -708,7 +708,6 @@
 		19E85E13273EA693000CCFAE /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		19E85E14273EA693000CCFAE /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		19E85E15273EA694000CCFAE /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		19E85E16273EA694000CCFAE /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		19E85E17273EA694000CCFAE /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		19E85E18273EA694000CCFAE /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		19E85E1B273EA694000CCFAE /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -717,6 +716,7 @@
 		19E85E28273F1FDF000CCFAE /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		19E85E29273F20BA000CCFAE /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		19E85E2C273F2582000CCFAE /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		19E85E2D273F26E7000CCFAE /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2CBB4B0C2582B6820099DDEF /* xDripClient.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = xDripClient.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CBB4B0E2582B6A00099DDEF /* xDripClientUI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = xDripClientUI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3804343C23747354004BAB52 /* Microbolus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Microbolus.swift; sourceTree = "<group>"; };
@@ -3460,7 +3460,7 @@
 				1980D01D273C82C900AC5351 /* uk */,
 				1980D02D273C833700AC5351 /* vi */,
 				1980D043273C874000AC5351 /* pt-BR */,
-				19E85E16273EA694000CCFAE /* tr */,
+				19E85E2D273F26E7000CCFAE /* tr */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
