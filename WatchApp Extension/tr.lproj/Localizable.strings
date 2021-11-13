@@ -35,10 +35,10 @@
 "Send Failed" = "Send Failed";
 
 /* The short unit display string for international units of insulin */
-"U" = "U";
+"U" = "Ü";
 
 /* The short unit display string for international units of insulin delivery per hour */
-"U/hr" = "U/hr";
+"U/hr" = "Ü/Sa";
 
 /* The text for the Watch button for enabling workout mode */
-"Workout" = "Workout";
+"Workout" = "Egzersiz";

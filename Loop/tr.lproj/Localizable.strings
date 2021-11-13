@@ -212,10 +212,10 @@
 "Customer Token" = "Customer Token";
 
 /* Button title to delete CGM */
-"Delete CGM" = "Delete CGM";
+"Delete CGM" = "CGM'i Sil";
 
 /* Title text for delivery limits */
-"Delivery Limits" = "Delivery Limits";
+"Delivery Limits" = "İletim Kısıtlamaları";
 
 /* The action hint of the workout mode toggle button when enabled */
 "Disables" = "Disables";
@@ -242,10 +242,10 @@
 "Fiasp" = "Fiasp";
 
 /* The format string used to describe a finite workout targets duration */
-"For %1$@" = "For %1$@";
+"For %1$@" = "%1$@ için";
 
 /* The title of the glucose and prediction graph */
-"Glucose" = "Glucose";
+"Glucose" = "Glikoz";
 
 /* The error message when glucose data is too old to be used. (1: glucose data age in minutes) */
 "Glucose data is %1$@ old" = "Glucose data is %1$@ old";
@@ -263,7 +263,7 @@
 "Indefinitely" = "Indefinitely";
 
 /* Title of the prediction input effect for insulin */
-"Insulin" = "Insulin";
+"Insulin" = "İnsülin";
 
 /* Description of the prediction input effect for insulin */
 "Insulin Absorbed (U) × Insulin Sensitivity (%1$@/U)" = "Insulin Absorbed (U) × Insulin Sensitivity (%1$@/U)";
@@ -286,13 +286,13 @@
 "Invalid data: %1$@" = "Invalid data: %1$@";
 
 /* The title text for the issue report cell */
-"Issue Report" = "Issue Report";
+"Issue Report" = "Sorun Bildirimi";
 
 /* Glucose HUD accessibility hint */
 "Launches CGM app" = "Launches CGM app";
 
 /* The loading message for the diagnostic report screen */
-"Loading..." = "Loading...";
+"Loading..." = "Yükleniyor...";
 
 /* The title of the loggly service */
 "Loggly" = "Loggly";
@@ -337,7 +337,7 @@
 "Predicted: %1$@\nActual: %2$@ (%3$@)" = "Predicted: %1$@\nActual: %2$@ (%3$@)";
 
 /* The title of the pump section in settings */
-"Pump" = "Pump";
+"Pump" = "Pompa";
 
 /* The notification title for a low pump battery */
 "Pump Battery Low" = "Pump Battery Low";
@@ -373,7 +373,7 @@
 "Recommended Bolus: %@ Units" = "Recommended Bolus: %@ Units";
 
 /* Details for missing data error when reservoir data is missing */
-"Reservoir" = "Reservoir";
+"Reservoir" = "Rezervuar";
 
 /* Title of the prediction input effect for retrospective correction */
 "Retrospective Correction" = "Retrospective Correction";
@@ -382,10 +382,10 @@
 "Retry" = "Retry";
 
 /* The title of the services section in settings */
-"Services" = "Services";
+"Services" = "Hizmetler";
 
 /* (No Comment) */
-"Set" = "Set";
+"Set" = "Ayarla";
 
 /* The label of the settings button */
 "Settings" = "Settings";
@@ -418,7 +418,7 @@
 "The maximum bolus amount is %@ Units" = "The maximum bolus amount is %@ Units";
 
 /* The short unit display string for international units of insulin */
-"U" = "U";
+"U" = "Ü";
 
 /* The format for the description of a temporary override end date */
 "until %@" = "until %@";
@@ -438,7 +438,7 @@
 /*-----------------------------------------------------------------------------*/
 // FreeAPS strings
 
-"Microboluses" = "Microboluses";
+"Microboluses" = "Mikrobolus";
 
 "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus.";
 
@@ -462,33 +462,33 @@
 
 "If the override's target range starts at the given value or more" = "If the override's target range starts at the given value or more";
 
-"Other Options" = "Other Options";
+"Other Options" = "Diğer Ayarlar";
 
 "Open bolus screen after carbs on watch" = "Open bolus screen after carbs on watch";
 
-"Minimum Bolus Size" = "Minimum Bolus Size";
+"Minimum Bolus Size" = "Minimum Bolus Miktarı";
 
-"Last Event" = "Last Event";
+"Last Event" = "Son Etkinlik";
 
-"This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered.";
+"This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "Teslim edilecek birimlerdeki minimum mikrobolus boyutudur. Yalnızca hesaplanan mikrobolus bu birim sayısına eşit veya daha fazlaysa bolus iletilecektir.";
 
-"Disabled" = "Disabled";
+"Disabled" = "Devre dışı";
 
-"Always" = "Always";
+"Always" = "Her zaman";
 
-"With Carbs" = "With Carbs";
+"With Carbs" = "Karbonhidratla";
 
-"Without Carbs" = "Without Carbs";
+"Without Carbs" = "Karbonhidratsız";
 
-"Export Settings" = "Export Settings";
+"Export Settings" = "Ayarları Dışarı Aktar";
 
-"Import Settings" = "Import Settings";
+"Import Settings" = "Ayarları İçe Aktar";
 
-"Manual Temp Basal" = "Manual Temp Basal";
+"Manual Temp Basal" = "Manuel Geçici Bazal Oranı";
 
-"Basal rate (U/h)" = "Basal rate (U/h)";
+"Basal rate (U/h)" = "Basal oranı (Ü/sa)";
 
-"Duration" = "Duration";
+"Duration" = "Süre";
 
 "%.0f h %02.0f min" = "%.0f h %02.0f min";
 
@@ -496,7 +496,7 @@
 
 "Set" = "Set";
 
-"Safety" = "Safety";
+"Safety" = "Emniyet";
 
 "Allow MBs when the sensor value is invalid" = "Allow MBs when the sensor value is invalid";
 
