@@ -340,46 +340,46 @@
 "Pump" = "Pompa";
 
 /* The notification title for a low pump battery */
-"Pump Battery Low" = "Pump Battery Low";
+"Pump Battery Low" = "Pompa Pili Düşük";
 
 /* The error message when pump data is too old to be used. (1: pump data age in minutes) */
-"Pump data is %1$@ old" = "Pump data is %1$@ old";
+"Pump data is %1$@ old" = "Pompa verileri %1$@ eski";
 
 /* Details for configuration error when pump manager is missing */
-"Pump Manager" = "Pump Manager";
+"Pump Manager" = "Pompa Yöneticisi";
 
 /* The notification title for an empty pump reservoir */
-"Pump Reservoir Empty" = "Pump Reservoir Empty";
+"Pump Reservoir Empty" = "Boş Pompa Rezervuarı";
 
 /* The notification title for a low pump reservoir */
-"Pump Reservoir Low" = "Pump Reservoir Low";
+"Pump Reservoir Low" = "Düşük Pompa Rezervuarı";
 
 /* The title of the cell indicating the pump is suspended */
 "Pump Suspended" = "Pump Suspended";
 
 /* Title of insulin model preset */
-"Rapid-Acting – Adults" = "Rapid-Acting – Adults";
+"Rapid-Acting – Adults" = "Hızlı Etkili - Yetişkin";
 
 /* Title of insulin model preset */
-"Rapid-Acting – Children" = "Rapid-Acting – Children";
+"Rapid-Acting – Children" = "Hızlı Etkili - Çocuk";
 
 /* The error message when a recommendation has expired. (1: age of recommendation in minutes) */
 "Recommendation expired: %1$@ old" = "Recommendation expired: %1$@ old";
 
 /* The title of the cell displaying a recommended temp basal value */
-"Recommended Basal" = "Recommended Basal";
+"Recommended Basal" = "Önerilen Bazal";
 
 /* Accessibility hint describing recommended bolus units */
-"Recommended Bolus: %@ Units" = "Recommended Bolus: %@ Units";
+"Recommended Bolus: %@ Units" = "Önerilen Bolus: %@ Ünite";
 
 /* Details for missing data error when reservoir data is missing */
 "Reservoir" = "Rezervuar";
 
 /* Title of the prediction input effect for retrospective correction */
-"Retrospective Correction" = "Retrospective Correction";
+"Retrospective Correction" = "Geriye Dönük Düzeltme";
 
 /* The title of the notification action to retry a bolus command */
-"Retry" = "Retry";
+"Retry" = "Yeniden dene";
 
 /* The title of the services section in settings */
 "Services" = "Hizmetler";
@@ -388,52 +388,52 @@
 "Set" = "Ayarla";
 
 /* The label of the settings button */
-"Settings" = "Settings";
+"Settings" = "Ayarlar";
 
 /* Loop Completion HUD accessibility hint */
-"Shows last loop error" = "Shows last loop error";
+"Shows last loop error" = "Son döngü hatasını gösterir";
 
 /* Format fragment for a start time */
-"since %@" = "since %@";
+"since %@" = "%@'den beri";
 
 /* The title of the nightscout site URL credential */
-"Site URL" = "Site URL";
+"Site URL" = "Site URL adresi";
 
 /* The format for the description of a temporary override start date */
-"starting at %@" = "starting at %@";
+"starting at %@" = "başlama saati %@";
 
 /* The title of the cell indicating a bolus is being sent */
-"Starting Bolus" = "Starting Bolus";
+"Starting Bolus" = "Bolusu Başlatma";
 
 /* The title text in settings */
-"Suspend Threshold" = "Suspend Threshold";
+"Suspend Threshold" = "Askıya Alma Eşiği";
 
 /* The subtitle of the cell displaying an action to resume insulin delivery */
-"Tap to Resume" = "Tap to Resume";
+"Tap to Resume" = "Devam etmek için Dokunun";
 
 /* Subtitle description of Walsh insulin model setting */
-"The legacy model used by Loop, allowing customization of action duration." = "The legacy model used by Loop, allowing customization of action duration.";
+"The legacy model used by Loop, allowing customization of action duration." = "Loop tarafından kullanılan ve eylem süresinin özelleştirilmesine izin veren eski model.";
 
 /* Body of the alert describing a maximum bolus validation error. (1: The localized max bolus value) */
-"The maximum bolus amount is %@ Units" = "The maximum bolus amount is %@ Units";
+"The maximum bolus amount is %@ Units" = "Maksimum bolus miktarı %@ Ünitedir";
 
 /* The short unit display string for international units of insulin */
 "U" = "Ü";
 
 /* The format for the description of a temporary override end date */
-"until %@" = "until %@";
+"until %@" = "%@ kadar";
 
 /* The title of the alert controller used to select a duration for workout targets */
-"Use Workout Glucose Targets" = "Use Workout Glucose Targets";
+"Use Workout Glucose Targets" = "Egzersiz Glikoz Hedeflerini Kullan";
 
 /* Title of insulin model setting */
 "Walsh" = "Walsh";
 
 /* Explanation of suspend threshold */
-"When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." = "When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.";
+"When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." = "Mevcut veya tahmin edilen glikoz, askıya alma eşiğinin altında olduğunda, Loop herhangi bir bolus önermez ve her saatte bir 0 Ünüte geçici bazal değeri önerir.";
 
 /* The label of the workout mode toggle button */
-"Workout Targets" = "Workout Targets";
+"Workout Targets" = "Egzersiz Hedefleri";
 
 /*-----------------------------------------------------------------------------*/
 // FreeAPS strings
@@ -442,9 +442,9 @@
 
 "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus.";
 
-"Enable With Carbs" = "Enable With Carbs";
+"Enable With Carbs" = "Karbonhidratları Etkinleştir";
 
-"Enable Without Carbs" = "Enable Without Carbs";
+"Enable Without Carbs" = "Karbonhidratsız Etkinleştir";
 
 "Partial Bolus Application" = "Partial Bolus Application";
 
@@ -460,11 +460,11 @@
 
 "Disable MB by enabling temporary override" = "Disable MB by enabling temporary override";
 
-"If the override's target range starts at the given value or more" = "If the override's target range starts at the given value or more";
+"If the override's target range starts at the given value or more" = "Hedef aralığı geçersiz kılarsa, verilen değer veya daha fazla değerde başlar";
 
 "Other Options" = "Diğer Ayarlar";
 
-"Open bolus screen after carbs on watch" = "Open bolus screen after carbs on watch";
+"Open bolus screen after carbs on watch" = "Saatte karbonhidrattan sonra bolus ekranını aç";
 
 "Minimum Bolus Size" = "Minimum Bolus Miktarı";
 
@@ -490,22 +490,22 @@
 
 "Duration" = "Süre";
 
-"%.0f h %02.0f min" = "%.0f h %02.0f min";
+"%.0f h %02.0f min" = "%.0f sa %02.0f dk";
 
-"Cancel Temp Basal" = "Cancel Temp Basal";
+"Cancel Temp Basal" = "Geçici Bazali İptal Et";
 
-"Set" = "Set";
+"Set" = "Ayarla";
 
 "Safety" = "Emniyet";
 
-"Allow MBs when the sensor value is invalid" = "Allow MBs when the sensor value is invalid";
+"Allow MBs when the sensor value is invalid" = "Sensör değeri geçersiz olduğunda mikrobolus'lara izin ver";
 
-"Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings." = "Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings.";
+"Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings." = "Bazen glikoz değerinin yanında bir ünlem işareti görebilirsiniz. Bu gibi durumlarda mikrobolus uygulanmaz. Uyarıları yoksaymak istiyorsanız bu ayarı açın.";
 
-"Other FreeAPS settings" = "Other FreeAPS settings";
+"Other FreeAPS settings" = "Diğer FreeAPS ayarları";
 
-"Show required carbs on the app badge" = "Show required carbs on the app badge";
+"Show required carbs on the app badge" = "Uygulama rozetinde gerekli karbonhidratları göster";
 
-"Allow MBs when glucose is below target range" = "Allow MBs when glucose is below target range";
+"Allow MBs when glucose is below target range" = "Glikoz hedef aralığın altında olduğunda mikrobolus'lara izin ver";
 
-"Retrospective Correction interval" = "Retrospective Correction interval";
+"Retrospective Correction interval" = "Geriye Dönük Düzeltme aralığı";
