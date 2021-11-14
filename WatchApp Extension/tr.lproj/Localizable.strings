@@ -1,25 +1,25 @@
 /* HUD row title for COB */
-"Active Carbs" = "Active Carbs";
+"Active Carbs" = "Aktif Karbonhidrat";
 
 /* HUD row title for IOB */
-"Active Insulin" = "Active Insulin";
+"Active Insulin" = "Etkin İnsülin";
 
 /* Title of the user activity for adding carbs */
-"Add Carb Entry" = "Add Carb Entry";
+"Add Carb Entry" = "Karbonhidrat Girdisi Ekle";
 
 /* The title of the alert controller displayed after a bolus attempt fails */
-"Bolus Failed" = "Bolus Failed";
+"Bolus Failed" = "Başarısız Bolus";
 
 /* The action button title to dismiss an error message */
-"Dismiss" = "Dismiss";
+"Dismiss" = "Reddet";
 
 /* The recovery message displayed after a bolus attempt fails
    The recovery message displayed after a carb entry send attempt fails
    The recovery message displayed after a glucose range override send attempt fails */
-"Make sure your iPhone is nearby and try again" = "Make sure your iPhone is nearby and try again";
+"Make sure your iPhone is nearby and try again" = "iPhone'unuzun yakında olduğundan emin olun ve tekrar deneyin";
 
 /* HUD row title for Net Basal Rate */
-"Net Basal Rate" = "Net Basal Rate";
+"Net Basal Rate" = "Net Bazal Oranı";
 
 /* The text for the Watch button for enabling a temporary override */
 "Override" = "Override";
@@ -28,11 +28,11 @@
 "Rec: %@ U" = "Rec: %@ U";
 
 /* HUD row title for remaining reservoir volume */
-"Reservoir Volume" = "Reservoir Volume";
+"Reservoir Volume" = "Rezervuar Hacmi";
 
 /* The title of the alert controller displayed after a carb entry send attempt fails
    The title of the alert controller displayed after a glucose range override send attempt fails */
-"Send Failed" = "Send Failed";
+"Send Failed" = "Gönderme Başarısız";
 
 /* The short unit display string for international units of insulin */
 "U" = "Ü";

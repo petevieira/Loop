@@ -50,7 +50,7 @@
 "IRb-Yj-AQH.text" = "Label";
 
 /* Class = "UILabel"; text = "Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption."; ObjectID = "IxU-As-glo"; */
-"IxU-As-glo.text" = "Observed changes in glucose, subtracting changes modeled from insulin delivery, can be used to estimate carbohydrate absorption.";
+"IxU-As-glo.text" = "KŞ'erinde gözlemlenen değişiklikler, insülin iletiminde modellenen değişimler çıkararak, karbonhidrat emilimini tahmin etmek için kullanılabilir.";
 
 /* Class = "UILabel"; text = "Detail"; ObjectID = "J7x-W5-gwo"; */
 "J7x-W5-gwo.text" = "Detail";
@@ -62,10 +62,10 @@
 "OFA-qT-ZAg.text" = "Label";
 
 /* Class = "UITableViewController"; title = "Predicted Glucose"; ObjectID = "PA3-sP-cWY"; */
-"PA3-sP-cWY.title" = "Predicted Glucose";
+"PA3-sP-cWY.title" = "Tahmin Edilen Glikoz";
 
 /* Class = "UILabel"; text = "An insulin activity model is used to estimate effects of insulin on glucose levels. An accurate model can help prevent insulin stacking and safely recommend corrective treatments."; ObjectID = "PJv-p9-cFe"; */
-"PJv-p9-cFe.text" = "An insulin activity model is used to estimate effects of insulin on glucose levels. An accurate model can help prevent insulin stacking and safely recommend corrective treatments.";
+"PJv-p9-cFe.text" = "İnsülinin KŞ seviyeleri üzerindeki etkisini tahmin etmek için bir insülin aktivite modeli kullanılır. Doğru bir model, insülin birikmesini önlemeye yardımcı olabilir ve düzeltmeleri güvenli bir şekilde önerebilir.";
 
 /* Class = "UIButton"; normalTitle = "🍽"; ObjectID = "Qe9-uc-vPR"; */
 "Qe9-uc-vPR.normalTitle" = "🍽";
@@ -107,7 +107,7 @@
 "bIL-Ub-qYp.text" = "Label";
 
 /* Class = "UILabel"; text = "Glucose Change"; ObjectID = "bq4-98-cQU"; */
-"bq4-98-cQU.text" = "Glucose Change";
+"bq4-98-cQU.text" = "Glikoz Değişimi";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "cpo-Po-gFM"; */
 "cpo-Po-gFM.text" = "Label";
@@ -179,4 +179,4 @@
 "hHZ-uY-aKw.text" = "Active Carbohydrates: 40g";
 
 /* Class = "UIButton"; normalTitle = "Deliver"; ObjectID = "Ya0-9b-ZAS"; */
-"Ya0-9b-ZAS.normalTitle" = "Deliver";
+"Ya0-9b-ZAS.normalTitle" = "Teslimet";

@@ -178,29 +178,29 @@
 "Check settings" = "Check settings";
 
 /* Recovery suggestion when reservoir data is missing */
-"Check that your pump is in range" = "Check that your pump is in range";
+"Check that your pump is in range" = "Pompanızın menzil içinde olup olmadığını kontrol edin";
 
 /* Recovery suggestion when glucose data is missing */
-"Check your CGM data source" = "Check your CGM data source";
+"Check your CGM data source" = "CGM veri kaynağınızı kontrol edin";
 
 /* The title text for the looping enabled switch cell */
-"Closed Loop" = "Closed Loop";
+"Closed Loop" = "Kapalı Döngü";
 
 /* The title of the action used to dismiss an error alert */
-"com.loudnate.LoopKit.errorAlertActionTitle" = "OK";
+"com.loudnate.LoopKit.errorAlertActionTitle" = "Tamam";
 
 /* The title of the configuration section in settings */
-"Configuration" = "Configuration";
+"Configuration" = "Yapılandırma";
 
 /* The error message displayed for configuration errors. (1: configuration error details) */
-"Configuration Error: %1$@" = "Configuration Error: %1$@";
+"Configuration Error: %1$@" = "Yapılandırma Hatası: %1$@";
 
 /* The title of the continuous glucose monitor section in settings */
-"Continuous Glucose Monitor" = "Continuous Glucose Monitor";
+"Continuous Glucose Monitor" = "Sürekli Glikoz Takibi";
 
 /* The title of the glucose target range schedule screen
    The title text for the glucose target range schedule */
-"Correction Range" = "Correction Range";
+"Correction Range" = "Düzeltme Aralığı";
 
 /* Message when offering bolus recommendation even though bg is below range. (1: glucose value) */
 "Current glucose of %1$@ is below correction range." = "Current glucose of %1$@ is below correction range.";
@@ -218,13 +218,13 @@
 "Delivery Limits" = "İletim Kısıtlamaları";
 
 /* The action hint of the workout mode toggle button when enabled */
-"Disables" = "Disables";
+"Disables" = "Devre dışı bırak";
 
 /* The action hint of the workout mode toggle button when disabled */
-"Enables" = "Enables";
+"Enables" = "Etkinleştir";
 
 /* The placeholder text instructing users to enter a suspend treshold */
-"Enter suspend threshold" = "Enter suspend threshold";
+"Enter suspend threshold" = "Askıya Alma Eşiği değerine girin";
 
 /* The alert title for an error while canceling a bolus */
 "Error Canceling Bolus" = "Error Canceling Bolus";
@@ -233,10 +233,10 @@
 "Error Resuming" = "Error Resuming";
 
 /* The subtitle format describing eventual glucose. (1: localized glucose value description) */
-"Eventually %@" = "Eventually %@";
+"Eventually %@" = "Beklenen %@";
 
 /* The title of the alert describing a maximum bolus validation error */
-"Exceeds Maximum Bolus" = "Exceeds Maximum Bolus";
+"Exceeds Maximum Bolus" = "Maksimum Bolusu Aşıyor";
 
 /* Title of insulin model preset */
 "Fiasp" = "Fiasp";
@@ -248,39 +248,39 @@
 "Glucose" = "Glikoz";
 
 /* The error message when glucose data is too old to be used. (1: glucose data age in minutes) */
-"Glucose data is %1$@ old" = "Glucose data is %1$@ old";
+"Glucose data is %1$@ old" = "Glikoz verileri %1$@ eski";
 
 /* Description of error when glucose data is missing */
-"Glucose data not available" = "Glucose data not available";
+"Glucose data not available" = "Glikoz verisi mevcut değil";
 
 /* Title of the prediction input effect for glucose momentum */
-"Glucose Momentum" = "Glucose Momentum";
+"Glucose Momentum" = "Glikoz Momentumu";
 
 /* The placeholder text for the nightscout site URL credential */
-"https://mysite.herokuapp.com" = "https://mysite.herokuapp.com";
+"https://mysite.herokuapp.com" = "https://BenimNS.herokuapp.com";
 
 /* The title of a target alert action specifying an indefinitely long workout targets duration */
-"Indefinitely" = "Indefinitely";
+"Indefinitely" = "Süresiz Olarak";
 
 /* Title of the prediction input effect for insulin */
 "Insulin" = "İnsülin";
 
 /* Description of the prediction input effect for insulin */
-"Insulin Absorbed (U) × Insulin Sensitivity (%1$@/U)" = "Insulin Absorbed (U) × Insulin Sensitivity (%1$@/U)";
+"Insulin Absorbed (U) × Insulin Sensitivity (%1$@/U)" = "İnsülin Emilimi (Ü) × İnsülin Duyarlılığı (%1$@/Ü)";
 
 /* The title of the insulin delivery graph */
-"Insulin Delivery" = "Insulin Delivery";
+"Insulin Delivery" = "İnsülin İletimi";
 
 /* Details for missing data error when insulin effects are missing */
-"Insulin effects" = "Insulin effects";
+"Insulin effects" = "İnsülin Etkisi";
 
 /* Details for configuration error when insulin model is missing
    The title text for the insulin model setting row */
-"Insulin Model" = "Insulin Model";
+"Insulin Model" = "İnsülin Tipi";
 
 /* The title of the insulin sensitivities schedule screen
    The title text for the insulin sensitivity schedule */
-"Insulin Sensitivities" = "Insulin Sensitivities";
+"Insulin Sensitivities" = "İnsülin Duyarlılık Faktörü";
 
 /* The error message when invalid data was encountered. (1: details of invalid data) */
 "Invalid data: %1$@" = "Invalid data: %1$@";
@@ -289,7 +289,7 @@
 "Issue Report" = "Sorun Bildirimi";
 
 /* Glucose HUD accessibility hint */
-"Launches CGM app" = "Launches CGM app";
+"Launches CGM app" = "CGM uygulamasını başlatır";
 
 /* The loading message for the diagnostic report screen */
 "Loading..." = "Yükleniyor...";
@@ -298,13 +298,13 @@
 "Loggly" = "Loggly";
 
 /* The notification title for a loop failure */
-"Loop Failure" = "Loop Failure";
+"Loop Failure" = "Döngü Başarısız";
 
 /* The notification alert describing a long-lasting loop failure. The substitution parameter is the time interval since the last loop */
 "Loop has not completed successfully in %@" = "Loop has not completed successfully in %@";
 
 /* (No Comment) */
-"Manual Temp Basal" = "Manual Temp Basal";
+"Manual Temp Basal" = "Manuel Geçici Bazal Oranı";
 
 /* (No Comment) */
 "Max basal limit" = "Max basal limit";
@@ -331,7 +331,7 @@
 "Predicted glucose at %1$@ is %2$@." = "Predicted glucose at %1$@ is %2$@.";
 
 /* Notice message when recommending bolus when BG is below the suspend threshold. (1: glucose value) */
-"Predicted glucose of %1$@ is below your suspend threshold setting." = "Predicted glucose of %1$@ is below your suspend threshold setting.";
+"Predicted glucose of %1$@ is below your suspend threshold setting." = "%1$@ için tahmin edilen glikoz, hipoglisemiden kaçınmak için kapatma değeri ayarınızın altında.";
 
 /* Format string describing retrospective glucose prediction comparison. (1: Predicted glucose)(2: Actual glucose)(3: difference) */
 "Predicted: %1$@\nActual: %2$@ (%3$@)" = "Predicted: %1$@\nActual: %2$@ (%3$@)";
@@ -355,7 +355,7 @@
 "Pump Reservoir Low" = "Düşük Pompa Rezervuarı";
 
 /* The title of the cell indicating the pump is suspended */
-"Pump Suspended" = "Pump Suspended";
+"Pump Suspended" = "Pompa Durduldu";
 
 /* Title of insulin model preset */
 "Rapid-Acting – Adults" = "Hızlı Etkili - Yetişkin";
@@ -406,7 +406,7 @@
 "Starting Bolus" = "Bolusu Başlatma";
 
 /* The title text in settings */
-"Suspend Threshold" = "Askıya Alma Eşiği";
+"Suspend Threshold" = "Hipoglisemiden kaçınmak için erken kapatma değeri";
 
 /* The subtitle of the cell displaying an action to resume insulin delivery */
 "Tap to Resume" = "Devam etmek için Dokunun";
@@ -430,7 +430,7 @@
 "Walsh" = "Walsh";
 
 /* Explanation of suspend threshold */
-"When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." = "Mevcut veya tahmin edilen glikoz, askıya alma eşiğinin altında olduğunda, Loop herhangi bir bolus önermez ve her saatte bir 0 Ünüte geçici bazal değeri önerir.";
+"When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." = "Mevcut veya tahmin edilen glikoz, askıya alma eşiğinin altında olduğunda, Loop herhangi bir bolus önermez ve her saatte bir 0 Ünüte geçici bazal değerine geçer.";
 
 /* The label of the workout mode toggle button */
 "Workout Targets" = "Egzersiz Hedefleri";
@@ -446,7 +446,7 @@
 
 "Enable Without Carbs" = "Karbonhidratsız Etkinleştir";
 
-"Partial Bolus Application" = "Partial Bolus Application";
+"Partial Bolus Application" = "Kısmi Bolus Uygulaması";
 
 "What part of the recommended bolus will be applied automatically." = "What part of the recommended bolus will be applied automatically.";
 
