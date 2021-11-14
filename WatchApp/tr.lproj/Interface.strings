@@ -53,10 +53,10 @@
 "XkS-y5-khE.text" = "<body>";
 
 /* Class = "WKInterfaceLabel"; text = "Carbs"; ObjectID = "hln-CI-MRP"; */
-"hln-CI-MRP.text" = "Carbs";
+"hln-CI-MRP.text" = "Karbonhidrat";
 
 /* Class = "WKInterfaceButton"; title = "Add Carbs"; ObjectID = "b6f-3I-jki"; */
-"b6f-3I-jki.title" = "Add Carbs";
+"b6f-3I-jki.title" = "Karbonhidrat Ekle";
 
 /* Class = "WKInterfaceButton"; title = "🍕"; ObjectID = "dPF-QZ-sh6"; */
 "dPF-QZ-sh6.title" = "🍕";

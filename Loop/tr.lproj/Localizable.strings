@@ -56,72 +56,72 @@
 "AcceptRecommendedBolus" = "AcceptRecommendedBolus";
 
 /* The title of the Carbs On-Board graph */
-"Active Carbohydrates" = "Active Carbohydrates";
+"Active Carbohydrates" = "Aktif Karbonhidrat";
 
 /* The string format describing active carbohydrates. (1: localized glucose value description) */
-"Active Carbohydrates: %@" = "Active Carbohydrates: %@";
+"Active Carbohydrates: %@" = "Aktif Karbonhidrat: %@";
 
 /* The title of the Insulin On-Board graph */
-"Active Insulin" = "Active Insulin";
+"Active Insulin" = "Aktif İnsülin";
 
 /* The string format describing active insulin. (1: localized insulin value description) */
-"Active Insulin: %@" = "Active Insulin: %@";
+"Active Insulin: %@" = "Aktif İnsülin: %@";
 
 /* Title of the user activity for adding carbs */
-"Add Carb Entry" = "Add Carb Entry";
+"Add Carb Entry" = "Karbonhidrat Girdisi Ekle";
 
 /* */
-"Edit Carb Entry" = "Edit Carb Entry";
+"Edit Carb Entry" = "Karbonhidrat Girdisi Düzenle";
 
 /* Back button text for bolus screen to return to carb entry screen */
-"Carb Entry" = "Carb Entry";
+"Carb Entry" = "Karbonhidrat Girdisi";
 
 /* Title of the carb entry date picker cell */
-"Date" = "Date";
+"Date" = "Tarih";
 
 /* Title of the carb entry absorption time cell */
-"Absorption Time" = "Absorption Time";
+"Absorption Time" = "Emilim Süresi";
 
 /* Carb entry section footer text explaining absorption time */
-"Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." = "Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact.";
+"Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." = "Büyük öğünlerde veya fazla yağ ve protein içeren öğünler için daha uzun emilim süresi seçin. Bu sadece algoritmaya rehberlik eder ve kesin olması gerekmez.";
 
 /* The button text to save a carb entry without bolusing*/
-"Save without Bolusing" = "Save without Bolusing";
+"Save without Bolusing" = "Bolus olmadan Kaydet";
 
 /* Title text for bolus screen following a carb entry */
-"Meal Bolus" = "Meal Bolus";
+"Meal Bolus" = "Öğün Bolusu";
 
 /* The button text to initiate a bolus */
 "Deliver" = "Deliver";
 
 /* Action sheet title selecting CGM
    Title text for button to set up a CGM */
-"Add CGM" = "Add CGM";
+"Add CGM" = "CGM Ekle";
 
 /* The label of the meal button */
-"Add Meal" = "Add Meal";
+"Add Meal" = "Öğün Ekle";
 
 /* Action sheet title selecting Pump
    Title text for button to set up a new pump */
-"Add Pump" = "Add Pump";
+"Add Pump" = "Pompa Ekle";
 
 /* The title of the Amplitude service */
-"Amplitude" = "Amplitude";
+"Amplitude" = "Genlik";
 
 /* Subtitle of Rapid-Acting – Children preset */
-"An adjustment to the adult model based on empirical effects in children." = "An adjustment to the adult model based on empirical effects in children.";
+"An adjustment to the adult model based on empirical effects in children." = "Çocuklarda ampirik (deneyimsel) etkilere dayalı yetişkin modelinde bir ayarlama.";
 
 /* The title of the amplitude API key credential */
-"API Key" = "API Key";
+"API Key" = "API anahtarı";
 
 /* The title of the nightscout API secret credential */
-"API Secret" = "API Secret";
+"API Secret" = "API Gizli";
 
 /* Confirmation message for deleting a CGM */
-"Are you sure you want to delete this CGM?" = "Are you sure you want to delete this CGM?";
+"Are you sure you want to delete this CGM?" = "Bu CGM'i silmek istediğinden emin misin?";
 
 /* Format fragment for a specific time */
-"at %@" = "at %@";
+"at %@" = "%@'de";
 
 /* The message displayed during a device authentication prompt for bolus specification */
 "Authenticate to Bolus %@ Units" = "Authenticate to Bolus %@ Units";
@@ -147,35 +147,35 @@
 "Bolusing %1$@" = "Bolusing %1$@";
 
 /* The title of the cancel action in an action sheet */
-"Cancel" = "Cancel";
+"Cancel" = "Vazgeç";
 
 /* (No Comment) */
-"Cancel Temp Basal" = "Cancel Temp Basal";
+"Cancel Temp Basal" = "Geçici Bazali İptal Et";
 
 /* The title of the cell indicating a bolus is being canceled */
 "Canceling Bolus" = "Canceling Bolus";
 
 /* Details for missing data error when carb effects are missing */
-"Carb effects" = "Carb effects";
+"Carb effects" = "Karbonhidrat Etkileri";
 
 /* The title of the carb ratios schedule screen
    The title text for the carb ratio schedule */
-"Carb Ratios" = "Carb Ratios";
+"Carb Ratios" = "Karbonhidrat Oranları";
 
 /* Title of the prediction input effect for carbohydrates */
-"Carbohydrates" = "Carbohydrates";
+"Carbohydrates" = "Karbonhidratlar";
 
 /* Description of the prediction input effect for carbohydrates. (1: The glucose unit string) */
-"Carbs Absorbed (g) ÷ Carb Ratio (g/U) × Insulin Sensitivity (%1$@/U)" = "Carbs Absorbed (g) ÷ Carb Ratio (g/U) × Insulin Sensitivity (%1$@/U)";
+"Carbs Absorbed (g) ÷ Carb Ratio (g/U) × Insulin Sensitivity (%1$@/U)" = "Emilen Karbonhidrat (g) ÷ Karbonhidrat Oranı (g/Ü) × İnsülin Duyarlılığı (%1$@/Ü)";
 
 /* The notification alert describing a low pump battery */
-"Change the pump battery immediately" = "Change the pump battery immediately";
+"Change the pump battery immediately" = "Pompa pilini hemen değiştirin";
 
 /* The notification alert describing an empty pump reservoir */
-"Change the pump reservoir now" = "Change the pump reservoir now";
+"Change the pump reservoir now" = "Pompa rezervuarını hemen değiştirin";
 
 /* Details for configuration error when one or more loop settings are missing */
-"Check settings" = "Check settings";
+"Check settings" = "Ayarları kontrol ediniz";
 
 /* Recovery suggestion when reservoir data is missing */
 "Check that your pump is in range" = "Pompanızın menzil içinde olup olmadığını kontrol edin";
@@ -203,13 +203,13 @@
 "Correction Range" = "Düzeltme Aralığı";
 
 /* Message when offering bolus recommendation even though bg is below range. (1: glucose value) */
-"Current glucose of %1$@ is below correction range." = "Current glucose of %1$@ is below correction range.";
+"Current glucose of %1$@ is below correction range." = "%1$@ Mevcut KŞ düzeltme aralığının altında.";
 
 /* The title of the cell indicating a generic temporary override is enabled */
 "Custom Override" = "Custom Override";
 
 /* The title of the Loggly customer token credential */
-"Customer Token" = "Customer Token";
+"Customer Token" = "Müşteri Token";
 
 /* Button title to delete CGM */
 "Delete CGM" = "CGM'i Sil";
@@ -227,10 +227,10 @@
 "Enter suspend threshold" = "Askıya Alma Eşiği değerine girin";
 
 /* The alert title for an error while canceling a bolus */
-"Error Canceling Bolus" = "Error Canceling Bolus";
+"Error Canceling Bolus" = "Bolusu İptal Ederken bir hata oluştu";
 
 /* The alert title for a resume error */
-"Error Resuming" = "Error Resuming";
+"Error Resuming" = "Devam ederken hata oluştu";
 
 /* The subtitle format describing eventual glucose. (1: localized glucose value description) */
 "Eventually %@" = "Beklenen %@";
@@ -283,7 +283,7 @@
 "Insulin Sensitivities" = "İnsülin Duyarlılık Faktörü";
 
 /* The error message when invalid data was encountered. (1: details of invalid data) */
-"Invalid data: %1$@" = "Invalid data: %1$@";
+"Invalid data: %1$@" = "Geçersiz veri: %1$@";
 
 /* The title text for the issue report cell */
 "Issue Report" = "Sorun Bildirimi";
@@ -307,34 +307,34 @@
 "Manual Temp Basal" = "Manuel Geçici Bazal Oranı";
 
 /* (No Comment) */
-"Max basal limit" = "Max basal limit";
+"Max basal limit" = "Maks Bazal Limiti";
 
 /* The error message for missing data. (1: missing data details) */
-"Missing data: %1$@" = "Missing data: %1$@";
+"Missing data: %1$@" = "Kayıp veri: %1$@";
 
 /* Details for missing data error when momentum effects are missing */
-"Momentum effects" = "Momentum effects";
+"Momentum effects" = "Momentum etkileri";
 
 /* The title of the Nightscout service */
 "Nightscout" = "Nightscout";
 
 /* The error message displayed for device connection errors. */
-"No connected devices, or failure during device connection" = "No connected devices, or failure during device connection";
+"No connected devices, or failure during device connection" = "Bağlı cihaz yok veya cihaza bağlantı sırasında arıza oluştu";
 
 /* The title text for the override presets */
 "Override Presets" = "Override Presets";
 
 /* The label of the pre-meal mode toggle button */
-"Pre-Meal Targets" = "Pre-Meal Targets";
+"Pre-Meal Targets" = "Yemek öncesi Hedefleri";
 
 /* Message when offering bolus recommendation even though bg is below range and minBG is in future. (1: glucose time)(2: glucose number) */
-"Predicted glucose at %1$@ is %2$@." = "Predicted glucose at %1$@ is %2$@.";
+"Predicted glucose at %1$@ is %2$@." = "Saat %1$@ 'de tahmini glikoz değeri %2$@.";
 
 /* Notice message when recommending bolus when BG is below the suspend threshold. (1: glucose value) */
 "Predicted glucose of %1$@ is below your suspend threshold setting." = "%1$@ için tahmin edilen glikoz, hipoglisemiden kaçınmak için kapatma değeri ayarınızın altında.";
 
 /* Format string describing retrospective glucose prediction comparison. (1: Predicted glucose)(2: Actual glucose)(3: difference) */
-"Predicted: %1$@\nActual: %2$@ (%3$@)" = "Predicted: %1$@\nActual: %2$@ (%3$@)";
+"Predicted: %1$@\nActual: %2$@ (%3$@)" = "Tahmini: %1$@\nAktüel: %2$@ (%3$@)";
 
 /* The title of the pump section in settings */
 "Pump" = "Pompa";
@@ -364,7 +364,7 @@
 "Rapid-Acting – Children" = "Hızlı Etkili - Çocuk";
 
 /* The error message when a recommendation has expired. (1: age of recommendation in minutes) */
-"Recommendation expired: %1$@ old" = "Recommendation expired: %1$@ old";
+"Recommendation expired: %1$@ old" = "Önerilenin süresi doldu: %1$@ eski";
 
 /* The title of the cell displaying a recommended temp basal value */
 "Recommended Basal" = "Önerilen Bazal";
@@ -440,7 +440,7 @@
 
 "Microboluses" = "Mikrobolus";
 
-"Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus.";
+"Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "Dikkat! Mikro boluslar, maksimum geçici bazal oranı gibi diğer azaltmaların güvenlik etkilerini azaltma potansiyeline sahiptir. Lütfen dikkatli olun!\nBir mikrobolusun gerçek boyutu her zaman önerilen bolusun kısmi uygulamasıyla sınırlıdır.";
 
 "Enable With Carbs" = "Karbonhidratları Etkinleştir";
 
@@ -450,7 +450,7 @@
 
 "What part of the recommended bolus will be applied automatically." = "What part of the recommended bolus will be applied automatically.";
 
-"Basal Rate Multiplier" = "Basal Rate Multiplier";
+"Basal Rate Multiplier" = "Bazal Oran Çarpanı";
 
 "Max basal limit" = "Max basal limit";
 
