@@ -1,20 +1,20 @@
 /* The string format appended to active insulin that describes pending insulin. (1: pending insulin) */
-" (pending: %@)" = " (pending: %@)";
+" (pending: %@)" = " (bekleyen: %@)";
 
 /* Format string for carb ratio average. (1: value)(2: carb unit) */
-"%1$@ %2$@/U" = "%1$@ %2$@/U";
+"%1$@ %2$@/U" = "%1$@ %2$@/Ü";
 
 /* Formats (1: carb start time) and (2: carb absorption duration) */
 "%1$@ + %2$@" = "%1$@ + %2$@";
 
 /* Low reservoir alert format string. (1: Number of units remaining) */
-"%1$@ U left" = "%1$@ U left";
+"%1$@ U left" = "%1$@ Ü kaldı";
 
 /* Low reservoir alert with time remaining format string. (1: Number of units remaining)(2: approximate time remaining) */
-"%1$@ U left: %2$@" = "%1$@ U left: %2$@";
+"%1$@ U left: %2$@" = "%1$@ Ü kalan: %2$@";
 
 /* The format for recommended temp basal rate and time. (1: localized rate number)(2: localized time) */
-"%1$@ U/hour @ %2$@" = "%1$@ U/hour @ %2$@";
+"%1$@ U/hour @ %2$@" = "%1$@ Ü/Sa @ %2$@";
 
 /* The format string for the app name and version number. (1: bundle name)(2: bundle version) */
 "%1$@ v%2$@" = "%1$@ v%2$@";
@@ -29,28 +29,28 @@
 "%@ %@" = "%1$@ %2$@";
 
 /* Formats absorbed carb value */
-"%@ absorbed" = "%@ absorbed";
+"%@ absorbed" = "%@ absorbe edilen";
 
 /* The subtitle format describing total insulin. (1: localized insulin total) */
-"%@ U Total" = "%@ U Total";
+"%@ U Total" = "Toplam %@ Ü";
 
 /* Appends a full-stop to a statement */
 "%@." = "%@.";
 
 /* Description of the prediction input effect for glucose momentum */
-"15 min glucose regression coefficient (b₁), continued with decay over 30 min" = "15 min glucose regression coefficient (b₁), continued with decay over 30 min";
+"15 min glucose regression coefficient (b₁), continued with decay over 30 min" = "15 dakikalık KŞ regresyon katsayısı (b1), 30 dakika boyunca düşmeye devam eder";
 
 /* Description of the prediction input effect for retrospective correction */
-"30 min comparison of glucose prediction vs actual, continued with decay over 60 min" = "30 min comparison of glucose prediction vs actual, continued with decay over 60 min";
+"30 min comparison of glucose prediction vs actual, continued with decay over 60 min" = "30 dakikalık Glikoz tahmini ile gerçek Kş karşılaştırması, 60 dakikanın üzerinde bir düşüşle devam eder";
 
 /* Subtitle of Fiasp preset */
-"A model based on the published absorption of Fiasp insulin." = "A model based on the published absorption of Fiasp insulin.";
+"A model based on the published absorption of Fiasp insulin." = "Fiasp insülinin yayınlanmış emilimine dayanan bir model.";
 
 /* Subtitle of Rapid-Acting – Adult preset */
-"A model based on the published absorption of Humalog, Novolog, and Apidra insulin in adults." = "A model based on the published absorption of Humalog, Novolog, and Apidra insulin in adults.";
+"A model based on the published absorption of Humalog, Novolog, and Apidra insulin in adults." = "Yetişkinlerde yayınlanan Humalog, Novolog ve Apidra insülin emilimine dayanan bir model.";
 
 /* Subtitle of Lyumjev preset */
-"A model based on the published absorption of Lyumjev insulin." = "A model based on the published absorption of Lyumjev insulin.";
+"A model based on the published absorption of Lyumjev insulin." = "Lyumjev insülinin yayınlanmış emilimine dayanan bir model.";
 
 /* Action to copy the recommended Bolus value to the actual Bolus Field */
 "AcceptRecommendedBolus" = "AcceptRecommendedBolus";
@@ -124,27 +124,27 @@
 "at %@" = "%@'de";
 
 /* The message displayed during a device authentication prompt for bolus specification */
-"Authenticate to Bolus %@ Units" = "Authenticate to Bolus %@ Units";
+"Authenticate to Bolus %@ Units" = "%@ Ünite Bolus için Kimlik Doğrulaması Yapın";
 
 /* (No Comment) */
-"Basal rate (U/h)" = "Basal rate (U/h)";
+"Basal rate (U/h)" = "Bazal oranı (Ü/sa)";
 
 /* Details for configuration error when basal rate schedule is missing */
-"Basal Rate Schedule" = "Basal Rate Schedule";
+"Basal Rate Schedule" = "Bazal Oran Programı";
 
 /* The title of the basal rate profile screen
    The title text for the basal rate schedule */
-"Basal Rates" = "Basal Rates";
+"Basal Rates" = "Bazal Oranları";
 
 /* The label of the bolus entry button
    The notification title for a bolus failure */
 "Bolus" = "Bolus";
 
 /* The format string for bolus progress. (1: delivered volume)(2: total volume) */
-"Bolused %1$@ of %2$@" = "Bolused %1$@ of %2$@";
+"Bolused %1$@ of %2$@" = "Bolus %2$@'da %1$@ Verildi";
 
 /* The format string for bolus in progress showing total volume. (1: total volume) */
-"Bolusing %1$@" = "Bolusing %1$@";
+"Bolusing %1$@" = "Bolus %1$@ Veriliyor";
 
 /* The title of the cancel action in an action sheet */
 "Cancel" = "Vazgeç";
@@ -153,7 +153,7 @@
 "Cancel Temp Basal" = "Geçici Bazali İptal Et";
 
 /* The title of the cell indicating a bolus is being canceled */
-"Canceling Bolus" = "Canceling Bolus";
+"Canceling Bolus" = "Bolus İptal ediliyor";
 
 /* Details for missing data error when carb effects are missing */
 "Carb effects" = "Karbonhidrat Etkileri";
@@ -301,7 +301,7 @@
 "Loop Failure" = "Döngü Başarısız";
 
 /* The notification alert describing a long-lasting loop failure. The substitution parameter is the time interval since the last loop */
-"Loop has not completed successfully in %@" = "Loop has not completed successfully in %@";
+"Loop has not completed successfully in %@" = "Döngü %@ için başarıyla tamamlanamadı";
 
 /* (No Comment) */
 "Manual Temp Basal" = "Manuel Geçici Bazal Oranı";
@@ -448,13 +448,13 @@
 
 "Partial Bolus Application" = "Kısmi Bolus Uygulaması";
 
-"What part of the recommended bolus will be applied automatically." = "What part of the recommended bolus will be applied automatically.";
+"What part of the recommended bolus will be applied automatically." = "Önerilen bolusun hangi kısmı otomatik olarak uygulanacaktır.";
 
 "Basal Rate Multiplier" = "Bazal Oran Çarpanı";
 
-"Max basal limit" = "Max basal limit";
+"Max basal limit" = "Maks Bazal Limiti";
 
-"Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting. This setting is ignored if microboluses are disabled." = "Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting. This setting is ignored if microboluses are disabled.";
+"Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting. This setting is ignored if microboluses are disabled." = "Maksimum bazal oranı, döngüdeki programlanmış bazal hızın katıyla sınırlar. Bu değer maksimum bazal oranı ayarınızı aşamaz. Mikro boluslar devre dışı bırakıldığında bu ayar yok sayılır.";
 
 "Temporary overrides" = "Temporary overrides";
 
