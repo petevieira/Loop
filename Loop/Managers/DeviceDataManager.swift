@@ -198,7 +198,7 @@ final class DeviceDataManager {
 
     func generateDiagnosticReport(_ completion: @escaping (_ report: String) -> Void) {
         self.loopManager.generateDiagnosticReport { (loopReport) in
-            self.deviceLog.getLogEntries(startDate: Date() - .hours(48)) { (result) in
+            self.deviceLog.getLogEntries(startDate: Date() - .hours(84)) { (result) in
                 let deviceLogReport: String
                 switch result {
                 case .failure(let error):
@@ -209,7 +209,7 @@ final class DeviceDataManager {
                 
                 let report = [
                     "## LoopVersion",
-                    "* Version: \(Bundle.main.localizedNameAndVersion)",
+                    "* Version: \(Bundle.main.localizedNameAndVersionAndBuild)",
                     "* profileExpiration: \(Bundle.main.profileExpirationString)",
                     "* gitRevision: \(Bundle.main.gitRevision ?? "N/A")",
                     "* gitBranch: \(Bundle.main.gitBranch ?? "N/A")",
@@ -280,14 +280,14 @@ private extension DeviceDataManager {
 
 // MARK: - Client API
 extension DeviceDataManager {
-    func enactBolus(units: Double, at startDate: Date = Date(), completion: @escaping (_ error: Error?) -> Void) {
+    func enactBolus(units: Double, at startDate: Date = Date(), automatic: Bool, completion: @escaping (_ error: Error?) -> Void) {
         guard let pumpManager = pumpManager else {
             completion(LoopError.configurationError(.pumpManager))
             return
         }
 
         self.loopManager.addRequestedBolus(DoseEntry(type: .bolus, startDate: Date(), value: units, unit: .units), completion: nil)
-        pumpManager.enactBolus(units: units, at: startDate, willRequest: { (dose) in
+        pumpManager.enactBolus(units: units, at: startDate, automatic: automatic, willRequest: { (dose) in
             // No longer used...
         }) { (result) in
             switch result {
@@ -700,6 +700,7 @@ extension DeviceDataManager: LoopDataManagerDelegate {
         enactBolus(
             units: bolus.amount,
             at: bolus.date,
+            automatic: true,
             completion: completion)
     }
 
