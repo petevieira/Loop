@@ -22,7 +22,7 @@
 "Net Basal Rate" = "Net Bazal Oranı";
 
 /* The text for the Watch button for enabling a temporary override */
-"Override" = "Override";
+"Override" = "Üzerine yaz";
 
 /* The label and value showing the recommended bolus */
 "Rec: %@ U" = "Önerilen: %@ Ü";
