@@ -301,7 +301,7 @@
 "Loop Failure" = "Loopfel";
 
 /* The notification alert describing a long-lasting loop failure. The substitution parameter is the time interval since the last loop */
-"Loop has not completed successfully in %@" = "Loop har inte kunnat köras på %@";
+"Loop has not completed successfully in %@" = "Loop har inte körts på %@";
 
 /* (No Comment) */
 "Manual Temp Basal" = "Manuell temporär basal";
