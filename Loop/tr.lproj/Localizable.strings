@@ -458,9 +458,9 @@
 
 "Temporary overrides" = "Geçici üzerine yazma";
 
-"Disable MB by enabling temporary override" = "Geçici üzerine yaz etkinleştirilirse MicroBolus'u devre dışı kalır";
+"Disable MB by enabling temporary override" = "Geçici üzerine yazma etkinleştirilerek MicroBolus'u devre dışı bırakma";
 
-"If the override's target range starts at the given value or more" = "Eğer üzerine yazılan hedef aralığın girilen değer veya daha fazlası ile başlatılır";
+"If the override's target range starts at the given value or more" = "Üzerine yazmanın hedef aralığı verilen değerde veya daha fazlasından başlıyorsa";
 
 "Other Options" = "Diğer Ayarlar";
 
@@ -496,9 +496,9 @@
 
 "Set" = "Ayarla";
 
-"Safety" = "Emniyet";
+"Safety" = "Güvenlik";
 
-"Allow MBs when the sensor value is invalid" = "Sensör değeri geçersiz olduğunda mikrobolus'lara izin ver";
+"Allow MBs when the sensor value is invalid" = "Sensör değeri geçersiz olduğunda Mikro Bolus'lara izin ver";
 
 "Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings." = "Bazen glikoz değerinin yanında bir ünlem işareti görebilirsiniz. Bu gibi durumlarda mikrobolus uygulanmaz. Uyarıları yoksaymak istiyorsanız bu ayarı açın.";
 
