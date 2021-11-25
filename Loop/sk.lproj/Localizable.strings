@@ -418,10 +418,10 @@
 "The maximum bolus amount is %@ Units" = "The maximum bolus amount is %@ Units";
 
 /* The short unit display string for international units of insulin */
-"U" = "U";
+"U" = "J";
 
 /* The format for the description of a temporary override end date */
-"until %@" = "until %@";
+"until %@" = "do %@";
 
 /* The title of the alert controller used to select a duration for workout targets */
 "Use Workout Glucose Targets" = "Use Workout Glucose Targets";
@@ -438,7 +438,7 @@
 /*-----------------------------------------------------------------------------*/
 // FreeAPS strings
 
-"Microboluses" = "Microboluses";
+"Microboluses" = "Mikrobolusy";
 
 "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus.";
 
@@ -452,7 +452,7 @@
 
 "Basal Rate Multiplier" = "Basal Rate Multiplier";
 
-"Max basal limit" = "Max basal limit";
+"Max basal limit" = "Max bazál limit";
 
 "Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting. This setting is ignored if microboluses are disabled." = "Limits the maximum basal rate to a multiple of the scheduled basal rate in loop. The value cannot exceed your maximum basal rate setting. This setting is ignored if microboluses are disabled.";
 
@@ -462,7 +462,7 @@
 
 "If the override's target range starts at the given value or more" = "If the override's target range starts at the given value or more";
 
-"Other Options" = "Other Options";
+"Other Options" = "Ďalšie možnosti";
 
 "Open bolus screen after carbs on watch" = "Open bolus screen after carbs on watch";
 
@@ -472,37 +472,37 @@
 
 "This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered.";
 
-"Disabled" = "Disabled";
+"Disabled" = "Vypnuté";
 
-"Always" = "Always";
+"Always" = "Vždy";
 
-"With Carbs" = "With Carbs";
+"With Carbs" = "So Sach";
 
-"Without Carbs" = "Without Carbs";
+"Without Carbs" = "Bez Sach";
 
-"Export Settings" = "Export Settings";
+"Export Settings" = "Export nastavení";
 
-"Import Settings" = "Import Settings";
+"Import Settings" = "Import nastavení";
 
-"Manual Temp Basal" = "Manual Temp Basal";
+"Manual Temp Basal" = "Manuálny Dočasný Bazál";
 
-"Basal rate (U/h)" = "Basal rate (U/h)";
+"Basal rate (U/h)" = "Bazál (J/hod)";
 
-"Duration" = "Duration";
+"Duration" = "Trvanie";
 
 "%.0f h %02.0f min" = "%.0f h %02.0f min";
 
-"Cancel Temp Basal" = "Cancel Temp Basal";
+"Cancel Temp Basal" = "Zrušiť Dočasný Bazál";
 
-"Set" = "Set";
+"Set" = "Nastaviť";
 
-"Safety" = "Safety";
+"Safety" = "Bezpečnosť";
 
 "Allow MBs when the sensor value is invalid" = "Allow MBs when the sensor value is invalid";
 
 "Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings." = "Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings.";
 
-"Other FreeAPS settings" = "Other FreeAPS settings";
+"Other FreeAPS settings" = "Ďalšie FreeAPS nastavenia";
 
 "Show required carbs on the app badge" = "Show required carbs on the app badge";
 
