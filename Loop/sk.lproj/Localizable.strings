@@ -92,14 +92,14 @@
 "Meal Bolus" = "Prandiálny Bolus";
 
 /* The button text to initiate a bolus */
-"Deliver" = "Podaj";
+"Deliver" = "Podať";
 
 /* Action sheet title selecting CGM
    Title text for button to set up a CGM */
-"Add CGM" = "Pridaj CGM";
+"Add CGM" = "Pridať CGM";
 
 /* The label of the meal button */
-"Add Meal" = "Pridaj Jedlo";
+"Add Meal" = "Pridať Jedlo";
 
 /* Action sheet title selecting Pump
    Title text for button to set up a new pump */
@@ -504,8 +504,8 @@
 
 "Other FreeAPS settings" = "Ďalšie FreeAPS nastavenia";
 
-"Show required carbs on the app badge" = "Show required carbs on the app badge";
+"Show required carbs on the app badge" = "Zobraziť požadované sach na hlavičke app";
 
-"Allow MBs when glucose is below target range" = "Allow MBs when glucose is below target range";
+"Allow MBs when glucose is below target range" = "Povoliť MB keď je krvný cukor pod cieľovým rozsahom";
 
-"Retrospective Correction interval" = "Retrospective Correction interval";
+"Retrospective Correction interval" = "Interval Spätnej Korekcie";
