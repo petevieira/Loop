@@ -124,7 +124,7 @@
 "at %@" = "o %@";
 
 /* The message displayed during a device authentication prompt for bolus specification */
-"Authenticate to Bolus %@ Units" = "Authenticate to Bolus %@ Units";
+"Authenticate to Bolus %@ Units" = "Autentifkácia pre Bolus %@ Jednotky";
 
 /* (No Comment) */
 "Basal rate (U/h)" = "Bazál (J/hod)";
@@ -169,10 +169,10 @@
 "Carbs Absorbed (g) ÷ Carb Ratio (g/U) × Insulin Sensitivity (%1$@/U)" = "Sacharidy Vstrebané (g) ÷ Sacharidový Pomer (g/J) x Inzulínová Citlivosť (%1$@/J)";
 
 /* The notification alert describing a low pump battery */
-"Change the pump battery immediately" = "Change the pump battery immediately";
+"Change the pump battery immediately" = "Ihneď vymeňte batériu pumpy";
 
 /* The notification alert describing an empty pump reservoir */
-"Change the pump reservoir now" = "Change the pump reservoir now";
+"Change the pump reservoir now" = "Vymeňte zásobník pumpy teraz";
 
 /* Details for configuration error when one or more loop settings are missing */
 "Check settings" = "Skontroluj nastavenia";
@@ -415,7 +415,7 @@
 "The legacy model used by Loop, allowing customization of action duration." = "The legacy model used by Loop, allowing customization of action duration.";
 
 /* Body of the alert describing a maximum bolus validation error. (1: The localized max bolus value) */
-"The maximum bolus amount is %@ Units" = "The maximum bolus amount is %@ Units";
+"The maximum bolus amount is %@ Units" = "Maximálna hodnota bolusu je %@ Jednotky";
 
 /* The short unit display string for international units of insulin */
 "U" = "J";
@@ -424,16 +424,16 @@
 "until %@" = "do %@";
 
 /* The title of the alert controller used to select a duration for workout targets */
-"Use Workout Glucose Targets" = "Use Workout Glucose Targets";
+"Use Workout Glucose Targets" = "Použiť Ciele Krvného cukru pre Cvičenie";
 
 /* Title of insulin model setting */
 "Walsh" = "Walsh";
 
 /* Explanation of suspend threshold */
-"When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." = "When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour.";
+"When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." = "Keď je aktuálny alebo predpokladaný krvný cukor pod hraničným prahom, Loop nebude opdorúčať bolus, a vždy odporučí dočasnú bazálnu dávku 0 jednotiek za hodinu.";
 
 /* The label of the workout mode toggle button */
-"Workout Targets" = "Workout Targets";
+"Workout Targets" = "Ciele Cvičenie";
 
 /*-----------------------------------------------------------------------------*/
 // FreeAPS strings
