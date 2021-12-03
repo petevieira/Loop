@@ -450,7 +450,7 @@
 
 "What part of the recommended bolus will be applied automatically." = "Aka časť odporúčaného bolusu bude podaná automaticky.";
 
-"Basal Rate Multiplier" = "Basal Rate Multiplier";
+"Basal Rate Multiplier" = "Multiplikátor Bazálnej dávky";
 
 "Max basal limit" = "Max bazál limit";
 
@@ -464,13 +464,13 @@
 
 "Other Options" = "Ďalšie možnosti";
 
-"Open bolus screen after carbs on watch" = "Open bolus screen after carbs on watch";
+"Open bolus screen after carbs on watch" = "Otvoriť obraz bolus po sach na hodinkách";
 
-"Minimum Bolus Size" = "Minimum Bolus Size";
+"Minimum Bolus Size" = "Minimálna veľkosť Bolusu";
 
-"Last Event" = "Last Event";
+"Last Event" = "Posledná udalosť";
 
-"This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered.";
+"This is the minimum microbolus size in units that will be delivered. Only if the microbolus calculated is equal to or greater than this number of units will a bolus be delivered." = "Toto je minimálna veľkosť mikrobolusu ktorá bude podaná. Iba ak je vypočítaný bolus rovný alebo väčší ako toto číslo jednotiek bude bolus podaný.";
 
 "Disabled" = "Vypnuté";
 
@@ -498,9 +498,9 @@
 
 "Safety" = "Bezpečnosť";
 
-"Allow MBs when the sensor value is invalid" = "Allow MBs when the sensor value is invalid";
+"Allow MBs when the sensor value is invalid" = "Povoliť MB keď je hodnota senzoru neplatná";
 
-"Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings." = "Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings.";
+"Sometimes you may see an exclamation mark next to the glucose value. In such cases microboluses will not be applied. Turn this setting on if you want to ignore warnings." = "Niekedy môžete vidieť znak výkričníka pri hodnote krvný cukor. V týchto prípadoch nebudú mikrobolusy aplikované. Zapnite toto nastavenie iba ak chcete ignorovať upozornenia.";
 
 "Other FreeAPS settings" = "Ďalšie FreeAPS nastavenia";
 
