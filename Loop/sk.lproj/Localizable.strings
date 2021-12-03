@@ -442,13 +442,13 @@
 
 "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus.";
 
-"Enable With Carbs" = "Enable With Carbs";
+"Enable With Carbs" = "Povoliť so Sach";
 
-"Enable Without Carbs" = "Enable Without Carbs";
+"Enable Without Carbs" = "Povoliť bez Sach";
 
-"Partial Bolus Application" = "Partial Bolus Application";
+"Partial Bolus Application" = "Podať Čiastočný Bolus";
 
-"What part of the recommended bolus will be applied automatically." = "What part of the recommended bolus will be applied automatically.";
+"What part of the recommended bolus will be applied automatically." = "Aka časť odporúčaného bolusu bude podaná automaticky.";
 
 "Basal Rate Multiplier" = "Basal Rate Multiplier";
 
