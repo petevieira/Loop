@@ -127,7 +127,7 @@
 "Authenticate to Bolus %@ Units" = "Подтверждение болюса %@ ед";
 
 /* (No Comment) */
-"Basal rate (U/h)" = "Базал (ед/ч)";
+"Basal rate (U/h)" = "Базальная скорость (ед/ч)";
 
 /* Details for configuration error when basal rate schedule is missing */
 "Basal Rate Schedule" = "Расписание базала";
@@ -150,7 +150,7 @@
 "Cancel" = "Отмена";
 
 /* (No Comment) */
-"Cancel Temp Basal" = "Отменить ВБС";
+"Cancel Temp Basal" = "Отменить временный базал";
 
 /* The title of the cell indicating a bolus is being canceled */
 "Canceling Bolus" = "Отмена болюса";
@@ -304,10 +304,10 @@
 "Loop has not completed successfully in %@" = "Не удалось успешно  замкнуть цикл/контур в %@";
 
 /* (No Comment) */
-"Manual Temp Basal" = "Ручная ВБС";
+"Manual Temp Basal" = "Временной базал, задаваемый вручную";
 
 /* (No Comment) */
-"Max basal limit" = "Максимальная базальная скорость";
+"Max basal limit" = "Максимальное значение базала";
 
 /* The error message for missing data. (1: missing data details) */
 "Missing data: %1$@" = "Пропущены данные: %1$@";
@@ -385,7 +385,7 @@
 "Services" = "Службы";
 
 /* (No Comment) */
-"Set" = "Установить";
+"Set" = "Задать";
 
 /* The label of the settings button */
 "Settings" = "Настройки";
