@@ -729,6 +729,14 @@ extension LoopDataManager {
         .subscribe(on: dataAccessQueue)
         .eraseToAnyPublisher()
 
+        // Ensure Loop does not happen more than once every 4.5 minutes; this is important for correct usage of automatic bolus
+        // partial application factor
+        if let lastLoopCompleted = self.lastLoopCompleted, Date().timeIntervalSince(lastLoopCompleted) < TimeInterval(minutes: 4.5)
+        {
+            self.logger.debug("Skipping loop() attempt as last loop completed less than 4.5 minutes ago")
+            return
+        }
+
         let enactBolusPublisher = Deferred {
             Future<Microbolus.Event?, Error> { promise in
                 self.calculateAndEnactMicroBolusIfNeeded { event, error in
