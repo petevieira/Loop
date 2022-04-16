@@ -490,7 +490,7 @@
 
 "Duration" = "Duration";
 
-"%.0f h %02.0f min" = "%.av h %02.av min";
+"%.0f h %02.0f min" = "%.0f h %02.0f min";
 
 "Cancel Temp Basal" = "Avbryt temporär basal";
 
