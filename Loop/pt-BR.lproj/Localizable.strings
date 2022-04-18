@@ -438,7 +438,7 @@
 /*-----------------------------------------------------------------------------*/
 // FreeAPS strings
 
-"Microboluses" = "Microbólus";
+"Microboluses" = "Microbolus";
 
 "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "Cuidado! Os microbolus têm potencial para reduzir os efeitos de segurança de outras mitigações, como a taxa máxima de basal temporal. Tenha cuidado!\nO valor real de um microbolus é sempre limitado à aplicação parcial do bolus recomendado.";
 
