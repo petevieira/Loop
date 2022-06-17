@@ -74,7 +74,7 @@
 "Edit Carb Entry" = "编辑碳水";
 
 /* Back button text for bolus screen to return to carb entry screen */
-"Carb Entry" = "添加碳水入口";
+"Carb Entry" = "添加碳水";
 
 /* Title of the carb entry date picker cell */
 "Date" = "日期";
@@ -295,7 +295,7 @@
 "Loading..." = "读取中...";
 
 /* The title of the loggly service */
-"Loggly" = "Loggly";
+"Loggly" = "日志记录";
 
 /* The notification title for a loop failure */
 "Loop Failure" = "Loop失败";
@@ -427,7 +427,7 @@
 "Use Workout Glucose Targets" = "使用运动状态的血糖目标";
 
 /* Title of insulin model setting */
-"Walsh" = "Walsh";
+"Walsh" = "Walsh 胰岛素曲线";
 
 /* Explanation of suspend threshold */
 "When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." = "当前或预测的葡萄糖低于暂停阈值时，Loop不推荐推注，并且总是建议每小时0单位的临时基础速率。";
@@ -440,13 +440,13 @@
 
 "Microboluses" = "微型大剂量";
 
-"Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus.";
+"Caution! Microboluses have potential to reduce the safety effects of other mitigations like max temp basal rate. Please be careful!\nThe actual size of a microbolus is always limited to the partial application of recommended bolus." = "注意！自动大剂量会降低安全性，如最大临时基础的输注限制。\n 自动大剂量的输注量为推荐总量一部分,不会一次性全部输注。";
 
-"Enable With Carbs" = "Enable With Carbs";
+"Enable With Carbs" = "仅在有活性碳水化合物时启用自动大剂量";
 
-"Enable Without Carbs" = "Enable Without Carbs";
+"Enable Without Carbs" = "即使没有活性碳水也启用自动大剂量";
 
-"Partial Bolus Application" = "Partial Bolus Application";
+"Partial Bolus Application" = "自动大剂量输注占比(指单次输注推荐大剂量的总量占比)";
 
 "What part of the recommended bolus will be applied automatically." = "What part of the recommended bolus will be applied automatically.";
 
