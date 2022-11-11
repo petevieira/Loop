@@ -61,6 +61,7 @@ final class BolusViewController: ChartsTableViewController, IdentifiableClass, U
         spellOutFormatter.numberStyle = .spellOut
 
         let amount = bolusRecommendation?.amount ?? 0
+        acceptRecommendedBolus()
         bolusAmountTextField.accessibilityHint = String(format: NSLocalizedString("Recommended Bolus: %@ Units", comment: "Accessibility hint describing recommended bolus units"), spellOutFormatter.string(from: amount) ?? "0")
     }
 
@@ -526,7 +527,7 @@ final class BolusViewController: ChartsTableViewController, IdentifiableClass, U
 
         let context = LAContext()
 
-        if context.canEvaluatePolicy(.deviceOwnerAuthentication, error: nil) {
+        if false && context.canEvaluatePolicy(.deviceOwnerAuthentication, error: nil) {
             context.evaluatePolicy(.deviceOwnerAuthentication,
                                    localizedReason: String(format: NSLocalizedString("Authenticate to Bolus %@ Units", comment: "The message displayed during a device authentication prompt for bolus specification"), amountString),
                                    reply: { (success, error) in
